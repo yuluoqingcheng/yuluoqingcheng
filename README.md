@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 <!-- 打字效果 -->
-<div align="right"> 
+<div style="text-align: center"> 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(Hello+World!);Hi!+Hello%2C+I+am+%E9%9B%A8%E8%90%BD%E5%80%BE%E5%9F%8E;%E5%97%A8%EF%BC%81%E6%88%91%E6%98%AF%E9%9B%A8%E8%90%BD%E5%80%BE%E5%9F%8E" alt="Hi yuluoqc">
 </div>
 
