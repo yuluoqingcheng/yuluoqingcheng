@@ -17,7 +17,7 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/yuluoqingcheng/count.svg)th visitor
 
-![](https://raw.githubusercontent.com/yuluoqingcheng/yuluoqingcheng/main/assets/github-contribution-grid-snake.svg)
+[//]: # (![]&#40;https://raw.githubusercontent.com/yuluoqingcheng/yuluoqingcheng/main/assets/github-contribution-grid-snake.svg&#41;)
 
 # About My Github
 <div align="left">
