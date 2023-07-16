@@ -17,6 +17,8 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/yuluoqingcheng/count.svg)th visitor
 
+![](https://raw.githubusercontent.com/yuluoqingcheng/yuluoqingcheng/main/assets/github-contribution-grid-snake.svg)
+
 # About My Github
 <div align="left">
 <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuluoqingcheng&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
