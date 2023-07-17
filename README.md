@@ -18,7 +18,12 @@
 <!-- You are my ![Visitor Count](https://profile-counter.glitch.me/yuluoqingcheng/count.svg)th visitor -->
 
 
-[//]: # (![]&#40;https://raw.githubusercontent.com/yuluoqingcheng/yuluoqingcheng/main/assets/github-contribution-grid-snake.svg&#41;)
+ <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/profile-snake-contrib/github-contribution-grid-snake.svg" />
+</picture>
+
 
 # About My Github
 <div align="left">
