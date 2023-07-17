@@ -11,11 +11,12 @@
 - 👩‍💻  1 years of work.
 - 📚  7 years in Learning Computer.
 - 👨‍🎓  A college student.
-- 📧  [yuluoqc2002@foxmail.com](mailto:yuluoqc2002@foxmail.com).
+- 📧  [yuluoqc2002@foxmail.com](mailto:yuluoqc2002@foxmail.com)。
   <br/>
   <br/>
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/yuluoqingcheng/count.svg)th visitor
+<!-- You are my ![Visitor Count](https://profile-counter.glitch.me/yuluoqingcheng/count.svg)th visitor -->
+
 
 [//]: # (![]&#40;https://raw.githubusercontent.com/yuluoqingcheng/yuluoqingcheng/main/assets/github-contribution-grid-snake.svg&#41;)
 
