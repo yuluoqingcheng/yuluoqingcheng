@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="./image/yuluoqc.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/image/yuluoqc.png" />
 
 <p>&emsp;&emsp;大家好，我是雨落倾城。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书。</p>
@@ -98,14 +98,14 @@ Here are some ideas to get you started:
 
 ### 🏢 Work Experience
 
-<img align="right" width="110" src="./image/ydhllog.png" />
+<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/image/ydhllog.png" />
 
 - [辽宁省雨滴互联科技有限公司](https://ydhl.yuluoqc.xyz/) &emsp; 📌 2022-03-29 —— Now
 
     - 工作岗位：Web前端开发工程师（初级）/ 公司执行董事（CEO）
     - 工作内容：页面设计与管理
 
-<img align="right" width="110" src="./image/ShenYangBRNSI.png" />
+<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/image/ShenYangBRNSI.png" />
 
 - [沈阳北软信息职业技术学院](https://www.nsi-soft.com/nsi/index) &emsp; 📌 2023-02-20 —— 2023-05-12
 
