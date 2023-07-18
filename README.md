@@ -25,7 +25,9 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-
+<!-- profile-3d-contrib 3D贡献图-->
+<img src="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
 
 # About My Github
 <div align="left">
@@ -158,9 +160,7 @@ Here are some ideas to get you started:
 <!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" /> -->
 
 
-<!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
+
 
 
 
