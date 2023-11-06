@@ -117,7 +117,7 @@ Here are some ideas to get you started:
     - 工作岗位：Web前端开发实习生
     - 工作内容：参与学校 NSIOJ 判题项目前端设计
 
-<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/image/gesoft_logo1.png" />
+<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/image/gesoft_logo.png" />
 
 - [沈阳格微软件责任有限公司](http://www.ge-soft.com/gesoft/) &emsp; 📌 2023-11-06 —— Tentative
 
