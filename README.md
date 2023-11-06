@@ -8,7 +8,7 @@
 - 🍒  A post-00s person who loves software development.
 - 📍  辽宁(LiaoNing).
 - 🏫  SYBRNSI.
-- 👩‍💻  1 years of work.
+- 👩‍💻  3 years of work.
 - 📚  7 years in Learning Computer.
 - 👨‍🎓  A college student.
 - 📧  [yuluoqc2002@foxmail.com](mailto:yuluoqc2002@foxmail.com)。
@@ -106,6 +106,9 @@ Here are some ideas to get you started:
 
     - 工作岗位：Web前端开发工程师（初级）/ 公司执行董事（CEO）
     - 工作内容：页面设计与管理
+      - Linux服务器运维管理
+      - 运转公司业务
+      - 设备化信息智能管理
 
 <img align="right" width="110" src="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/image/ShenYangBRNSI.png" />
 
@@ -113,6 +116,16 @@ Here are some ideas to get you started:
 
     - 工作岗位：Web前端开发实习生
     - 工作内容：参与学校 NSIOJ 判题项目前端设计
+
+<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/image/gesoft_logo1.png" />
+
+- [沈阳格微软件责任有限公司](http://www.ge-soft.com/gesoft/) &emsp; 📌 2023-11-06 —— Tentative
+
+    - 实习岗位：格微软件
+    - 工作岗位：大数据部门部长
+    - 工作内容：参与学徒制部门Gitlab代码规范平台的搭建与管理
+      - 参与为沈阳北软信息职业技术学院 师生 制作ChatGPT
+      - 参与学徒制部门 考勤信息化管理系统的运维和搭建
 
 </td>
 </tr>
