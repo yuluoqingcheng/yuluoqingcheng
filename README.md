@@ -127,6 +127,16 @@ Here are some ideas to get you started:
       - 参与为沈阳北软信息职业技术学院 师生 制作ChatGPT
       - 参与学徒制部门 考勤信息化管理系统的运维和搭建
 
+<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/image/gesoft_logo.png" />
+
+- [沈阳格微软件责任有限公司<br>链上云创工场]() &emsp;<br> 📌 2023-11-06 —— Tentative
+
+    - 实习岗位：格微软件
+    - 工作岗位：大数据部门部长
+    - 工作内容：参与学徒制部门Gitlab代码规范平台的搭建与管理
+        - 参与为沈阳北软信息职业技术学院 师生 制作ChatGPT
+        - 参与学徒制部门 考勤信息化管理系统的运维和搭建
+
 </td>
 </tr>
 
