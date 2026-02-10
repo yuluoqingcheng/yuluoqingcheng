@@ -7,10 +7,10 @@
 
 - 🍒  A post-00s person who loves software development.
 - 📍  辽宁(LiaoNing).
-- 🏫  SYBRNSI.
 - 👩‍💻  3 years of work.
 - 📚  7 years in Learning Computer.
 - 👨‍🎓  A college student.
+- 🌱 Currently working in ShenYang, China.
 - 📧  [yuluoqc2002@foxmail.com](mailto:yuluoqc2002@foxmail.com)。
   <br/>
   <br/>
@@ -20,19 +20,21 @@
 
  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuluoqingcheng/yuluoqingcheng/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuluoqingcheng/yuluoqingcheng/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yuluoqingcheng/yuluoqingcheng/output/github-snake-dark.svg" />
 </picture>
+<br><br><br>
 
 <!-- profile-3d-contrib 3D贡献图-->
 <img src="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
+
 # About My Github
-<div align="left">
+<!-- <div align="left">
 <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuluoqingcheng&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
-<img height='180' src="https://github-readme-stats.vercel.app/api?username=yuluoqingcheng&show_icons=true&theme=cobalt" align="center" />
+<img height='180' src="https://github-readme-stats.vercel.app/api?username=yuluoqingcheng&show_icons=true&theme=cobalt" align="center" /> -->
 </div>  
 
 <br/>  
@@ -55,11 +57,11 @@ Here are some ideas to get you started:
 
 
 <!-- 打字效果 -->
-<!--
+
 <div style="text-align: center"> 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(Hello+World!);Hi!+Hello%2C+I+am+%E9%9B%A8%E8%90%BD%E5%80%BE%E5%9F%8E;%E5%97%A8%EF%BC%81%E6%88%91%E6%98%AF%E9%9B%A8%E8%90%BD%E5%80%BE%E5%9F%8E" alt="Hi yuluoqc">
 </div>
--->
+
 
 
 
@@ -98,49 +100,7 @@ Here are some ideas to get you started:
 <td>
 
 
-### 🏢 Work Experience
 
-<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/image/ydhllog.png" />
-
-- [辽宁省雨滴互联科技有限公司](https://ydhl.yuluoqc.xyz/) &emsp; 📌 2022-03-29 —— Now
-
-    - 工作岗位：Web前端开发工程师（初级）/ 公司执行董事（CEO）
-    - 工作内容：页面设计与管理
-      - Linux服务器运维管理
-      - 运转公司业务
-      - 设备化信息智能管理
-
-<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/image/ShenYangBRNSI.png" />
-
-- [沈阳北软信息职业技术学院](https://www.nsi-soft.com/nsi/index) &emsp; 📌 2023-02-20 —— 2023-05-12
-
-    - 工作岗位：Web前端开发实习生
-    - 工作内容：参与学校 NSIOJ 判题项目前端设计
-
-<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/image/gesoft_logo.png" />
-
-- [沈阳格微软件责任有限公司](http://www.ge-soft.com/gesoft/) &emsp; 📌 2023-11-06 —— 2024.06.28
-
-    - 实习岗位：格微软件
-    - 工作岗位：大数据部门部长
-    - 工作内容：参与学徒制部门Gitlab代码规范平台的搭建与管理
-      - 参与为沈阳北软信息职业技术学院 师生 制作ChatGPT
-      - 参与学徒制部门 考勤信息化管理系统的运维和搭建
-
-<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/yuluoqingcheng/yuluoqingcheng/image/yunchuanglogo.png" />
-
-- [沈阳格微软件责任有限公司<br>链上云创工场]() &emsp;<br> 📌 2024.06.28 —— Tentative
-
-    - 工作岗位：链上云创工场管理部门
-    - 工作内容：云创工场数字化项目系统部署与运维
-        - 云创工场项目管理与项目测试部署
-        - 云创工场内部规章制度管理与重大决策等
-
-</td>
-</tr>
-
-
-<table>
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
