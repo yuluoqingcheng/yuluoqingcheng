@@ -381,9 +381,6 @@ Vue 移动端应用和管理后台开发
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yuluoqingcheng&show_icons=true&theme=tokyonight&hide_border=true&locale=cn&rank_icon=github" alt="GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuluoqingcheng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
